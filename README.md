@@ -6,7 +6,9 @@
 
 <h2 align="center">
 
-Building AI systems that automate work, accelerate execution, and solve real-world problems.
+Building AI systems that automate work, accelerate execution, 
+
+and solve real-world problems.
 
 </h2>
 
