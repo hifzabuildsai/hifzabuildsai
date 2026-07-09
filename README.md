@@ -1,161 +1,168 @@
-<div align="center">
+<!-- HERO BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1D4ED8&height=280&section=header&text=Agentic%20AI%20Engineer&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20AI-native%20products%20in%20public&descAlignY=55&descSize=18)
 
-# HifzaBuildsAI
-### **Agentic AI Engineer // AI Automation Systems**
+<h3 align="center">I build AI systems that automate work, compress time, and ship real products.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:111827&height=180&section=header&text=AI%20Automation%20Lab&fontSize=34&fontColor=7DD3FC&animation=fadeIn&fontAlignY=35" />
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logo=protocols.io&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-111827?style=for-the-badge&logo=robotframework&logoColor=93C5FD" />
+<p align="center">
+  <a href="https://x.com/HifBuildAIAgent"><img src="https://img.shields.io/badge/X-%40HifBuildAIAgent-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hifza-zafar/"><img src="https://img.shields.io/badge/LinkedIn-Hifza%20Zafar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hifzabuildsai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1E40AF?style=for-the-badge&logo=typescript&logoColor=white" />
+---
+
+## ⚡ Current Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-</div>
-
 ---
 
-## ⚡ SYSTEM STATUS
-
-| Module | State |
-|---|---|
-| Agentic AI | **Online** |
-| Multi-Agent Workflows | **Running** |
-| Context Engineering | **Active** |
-| AI-native Products | **Shipping** |
-| Open Source | **In Public** |
-
----
-
-## 🧠 WHAT I BUILD
-
-```txt
-Input  →  Context  →  Agents  →  Tools  →  Actions  →  Products
-```
-
-I build AI systems that do real work:
-
-- orchestrate multi-step tasks
-- automate workflows
-- coordinate agents with tools and memory
-- turn ideas into production-ready AI products
-
----
-
-## 🚀 FEATURED SYSTEMS
+## 🤖 What I’m building
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🎬 Fullstack AI YouTube Generator
-A multi-agent system that turns ideas into content workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌑 Shadowboard AI
-Browser-intelligence concept for revealing hidden patterns in behavior.
+### AI Automation Systems
+- Multi-agent workflows
+- Context engineering
+- Tool-using agents
+- Production AI orchestration
+- AI-native SaaS
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-### 📿 Wird
-Hands-free dhikr tracker designed for passive spiritual consistency.
-
-</td>
-<td width="50%" valign="top">
-
-### 🕌 Eid Namaz Finder
-Community-driven prayer-time platform for verified local discovery.
+### Product Thinking
+- Fast prototypes
+- Clean UX
+- Real users
+- Deployment-first builds
+- Founder-style execution
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-## 🛠 ENGINEERING STACK
+## 🚀 Featured Systems
 
-### AI / Orchestration
-- OpenAI Agents SDK
-- MCP
-- Multi-Agent Systems
-- Context Engineering
-- Prompt Architecture
-- Tool Calling
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Backend
-- Python
-- FastAPI
-- Node.js
-- TypeScript
+### 🎬 Fullstack AI YouTube Video Idea Generator
+Multi-agent system for turning ideas into structured content pipelines.
 
-### Frontend
-- Next.js
-- React
-- Tailwind CSS
+**Stack:** CrewAI • Next.js • TypeScript • Drizzle
 
-### Infra
-- Docker
-- GitHub Actions
-- Supabase
-- PostgreSQL
+</td>
+    <td width="50%" valign="top">
+
+### 🌑 Shadowboard AI
+Browser-intelligence concept that turns attention into signal.
+
+**Stack:** TypeScript • AI workflows • product experimentation
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📿 Wird
+Hands-free dhikr tracker built for real life, not just demos.
+
+**Stack:** Voice • mobile-first thinking • faith-tech
+
+</td>
+    <td width="50%" valign="top">
+
+### 🕌 Eid Namaz Finder
+Community-driven prayer-time finder for local utility at scale.
+
+**Stack:** TypeScript • location-based utility • civic product
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 Context Engineering
+Experiments and patterns for building smarter AI systems.
+
+**Stack:** memory • retrieval • orchestration • agent design
+
+</td>
+    <td width="50%" valign="top">
+
+### 🏗 spec-kit-plus
+Spec-driven templates for production-minded AI system design.
+
+**Stack:** architecture • templates • reusable patterns
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🛰 CURRENT FOCUS
+## 🛠 How I work
 
-- building AI-native products
-- designing agent workflows
-- shipping reusable systems
-- turning architecture into product
-
----
-
-## 📊 LIVE METRICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hifzabuildsai&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifzabuildsai&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+```text
+Problem → System design → Prototype → Deploy → Iterate → Document → Ship
+```
 
 ---
 
-## 🔥 CONTRIBUTION SIGNAL
+## 🌱 Currently focused on
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hifzabuildsai&theme=tokyonight&hide_border=true" />
-
-</div>
+- Building AI-native products
+- Shipping in public
+- Production-grade agent systems
+- Forward-deployed style execution
+- Turning ideas into client-ready systems
 
 ---
 
-## 🌍 CONNECT
+## 📊 GitHub at a glance
 
-- LinkedIn: in/hifza-zafar
-- X: @HifBuildAIAgent
-- YouTube: HifzaBuildsAI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hifzabuildsai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifzabuildsai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🎯 What I’m aiming for
+
+Build at the intersection of:
+
+- AI engineering
+- product delivery
+- automation
+- multi-agent systems
+- client-facing execution
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/hifza-zafar/
+- X: https://x.com/HifBuildAIAgent
 - Email: hifzabuildsai@gmail.com
 
 ---
 
-<div align="center">
-
-**Building AI systems with precision.  
-Shipping in public.  
-Scaling toward real-world automation.**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0F172A,100:111827&height=160&section=footer" />
+</p>
