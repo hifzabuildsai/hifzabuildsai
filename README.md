@@ -1,32 +1,43 @@
-<!-- ========================= HERO ========================= -->
+# Hifza Zafar
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Hifza%20Builds%20AI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20•%20Building%20toward%20Forward%20Deployed%20Engineering&descAlignY=58&descSize=20"/>
-</p>
+AI Product Designer & Builder based in Karachi.
 
-<h2 align="center">
+I design and build AI-native products across product interaction,
+frontend engineering, agent workflows and deterministic backend systems.
 
-Building AI systems that automate work, accelerate execution, 
+## Selected Work
 
-and solve real-world problems.
+### Tripzy
+Agentic travel-planning product with a conversational frontend,
+FastAPI backend, structured research workflows and PostgreSQL persistence.
 
-</h2>
+[Demo] [Repository] [Case Study]
 
-<p align="center">
+### Fourgate
+Experimental MCP connector tooling with an end-to-end preflight CLI
+and constrained runtime failure-classification prototype.
 
-<a href="https://x.com/HifBuildAIAgent">
-<img src="https://img.shields.io/badge/X-@HifBuildAIAgent-000000?style=for-the-badge&logo=x"/>
-</a>
+[Demo] [Repository] [Technical Write-up]
 
-<a href="https://www.linkedin.com/in/hifza-zafar/">
-<img src="https://img.shields.io/badge/LinkedIn-Hifza%20Zafar-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+### EidFinder
+Community-driven product for verified Eid prayer timings across Karachi,
+designed and shipped in one day.
 
-<a href="mailto:hifzabuildsai@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+[Live Product] [Repository] [Case Study]
 
-</p>
+## Product Design
 
----
+Designed Becodemy's official mobile-app experience in Figma, including
+light/dark interfaces and reusable components.
 
+[Figma Case Study] [App Store]
+
+## Stack
+
+TypeScript · React · Next.js · Python · FastAPI · PostgreSQL ·
+OpenAI Agents SDK · MCP · Figma
+
+## Contact
+
+hifza.she.codes@gmail.com
+LinkedIn: https://www.linkedin.com/in/hifza-zafar/
